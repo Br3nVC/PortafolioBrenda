@@ -570,7 +570,7 @@ section,
 .hero .background-elements .bg-sparkle {
   position: absolute;
   border-radius: 50%;
-  background: linear-gradient(45deg, color-mix(in srgb, rgb(255, 217, 0), transparent 80%), color-mix(in srgb, var(--accent-color), transparent 95%));
+  background: linear-gradient(45deg, color-mix(in srgb, rgb(255, 217, 0), transparent 50%), color-mix(in srgb, var(--accent-color), transparent 95%));
 }
 
 .hero .background-elements .bg-sparkle.sparkle-1 {
